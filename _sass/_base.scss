@@ -321,6 +321,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 #timeline {
   list-style: none;
   position: relative;
+  font-size : 14px;
 }
 #timeline:before {
   top: 0;
