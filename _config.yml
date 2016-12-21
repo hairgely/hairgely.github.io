@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
+locale                   : "kr"
+title                    : "hairgely700"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "hairgely"
+description              : "hairgely"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "hairgely"
+  avatar           : "/assets/images/share-972389_960_720.png"
+  bio              : "Just developer"
+  location         : "seoul"
   email            :
   uri              :
   bitbucket        :
