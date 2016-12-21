@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Site description for the metas.
+title:            hairgely700
+description:      hairgely
 logo:             omikron.png
 disqus_shortname: shortname
 # Assign a default image for your site's header and footer
@@ -9,12 +9,12 @@ share:            true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
 readtime:         true
 # Turn on or off the fin animations in the header and footer
-triangleheader:	  true
+triangleheader: true
 animated_fins:    true
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:          http://hmfaysal.me/hmfaysal-omega-theme
+url:          https://hairgely.github.io
 # baseurl:           
 
 # Gems used
