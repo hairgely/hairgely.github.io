@@ -1,7 +1,5 @@
 # hairgely
 
-### link
-
 ####hairgely's blog
 	https://hairgely.github.io/blog
 ####hairgely's site
