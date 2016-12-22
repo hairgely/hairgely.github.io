@@ -7,9 +7,9 @@ hairgely
 ### link
 
 - hairgely's blog : https://hairgely.github.io/blog
-- °³ÀÎ È¨ÆäÀÌÁö
+- ë§í¬ ì‚¬ì´íŠ¸
 	1. page700 : http://page700.com
-- Appboy ¼Ò°³
+- Appboy ì†Œê°œ
 	1. http://appboy.tistory.com
 	2. https://appboymore.wordpress.com
 
