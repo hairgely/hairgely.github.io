@@ -1,9 +1,5 @@
 # hairgely
 
-hairgely
-
-## hairgely
-
 ### link
 
 - hairgely's blog : https://hairgely.github.io/blog
