@@ -6,8 +6,12 @@ hairgely
 
 ### link
 
-- blog : https://hairgely.github.io/blog/
-- page700 : http://page700.com/main
+- hairgely's blog : https://hairgely.github.io/blog
+- 개인 홈페이지
+	1. page700 : http://page700.com
+- Appboy 소개
+	1. http://appboy.tistory.com
+	2. https://appboymore.wordpress.com
 
 ### reference
 
